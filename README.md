@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm Luis Familia</h1>
 <h3 align="center">A student majoring in Computer Programming and analysis and looking to learn about Data science from the Dominican Republic🏖️</h3>
-(img align="right" alt="Coding" width="400" src="Coding" width=https://media.tenor.com/CoOOvc2jbvsAAAAi/adaptivity-ai.gif
+(img align="right" alt="Coding" width="400" src="Coding" width=https://media.tenor.com/CoOOvc2jbvsAAAAi/adaptivity-ai.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugslayerluis&label=Profile%20views&color=0e75b6&style=flat" alt="bugslayerluis" /> </p>
 
